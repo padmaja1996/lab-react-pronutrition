@@ -1,0 +1,47 @@
+.combobox{
+    display:flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.Listcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-items: flex-start;
+    width: 600px;
+    padding: 30px;
+}
+
+#TodaysFood{
+    padding: 70px 0px 40px 0px;
+}
+
+.todayheader{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.listitem{
+    padding-left: 120px;
+    list-style-type: none;
+}
+
+li{
+    padding: 10px;
+}
+
+.cancel{
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+}

@@ -1,0 +1,19 @@
+.search{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.searchinput{
+    margin-top: 20px;
+    width: 140px;
+    font-size: 12px;
+    padding-left: 5px
+}
+
+.searchheader{
+    font-weight: 700;
+}
